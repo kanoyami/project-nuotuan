@@ -1,0 +1,37 @@
+<div class="am-cf admin-main">
+  <!-- sidebar start -->
+  <div class="admin-sidebar am-offcanvas" id="admin-offcanvas">
+    <div class="am-offcanvas-bar admin-offcanvas-bar">
+      <ul class="am-list admin-sidebar-list">
+        <li><a href="{: U('Index/index') }"><span class="am-icon-home"></span> 首页</a></li>
+        
+        <li class="admin-parent">
+          <a class="am-cf" data-am-collapse="{target: '#collapse-nav'}"><span class="am-icon-users"></span> 社团后台管理<span class="am-icon-angle-right am-fr am-margin-right"></span></a>
+         
+          <ul class="am-list am-collapse admin-sidebar-sub am-in" id="collapse-nav">
+            <li><a href="{: U('GroupDate/glist') }" class="am-cf"><span class="am-icon-list"></span> 社团列表<span class=" am-fr am-margin-right admin-icon-yellow"></span></a></li>
+
+             <li><a href="{: U('GroupDate/add') }" class="am-cf"><span class="am-icon-plus"></span> 新增社团<span class=" am-fr am-margin-right admin-icon-yellow"></span></a></li>
+             <ul class="am-list am-collapse admin-sidebar-sub am-in" id="collapse-nav">
+            
+          </ul>
+                      <li><a href="{: U('News/nlist') }" class="am-cf"><span class="am-icon-list"></span> 用户列表<span class=" am-fr am-margin-right admin-icon-yellow"></span></a></li>
+        </li>
+      
+      </ul>
+
+
+
+      <div class="am-panel am-panel-default admin-sidebar-panel">
+        <div class="am-panel-bd">
+          <p><span class="am-icon-tag"></span> About creater</p>
+          <p>邮箱：Kanoyami@92loli.com </p>
+          <p>QQ：448264919 </p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- sidebar end -->
+
+  <!-- content start -->
+  <div class="admin-content">

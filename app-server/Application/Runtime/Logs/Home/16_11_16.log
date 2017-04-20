@@ -1,0 +1,275 @@
+[ 2016-11-16T09:20:41+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002981s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003489s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1015s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0964s ]
+
+[ 2016-11-16T09:25:37+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002375s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1005s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1015s ]
+
+[ 2016-11-16T09:26:19+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002071s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002304s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0899s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1013s ]
+
+[ 2016-11-16T09:29:50+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002036s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001675s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001894s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0969s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0993s ]
+
+[ 2016-11-16T09:29:54+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001608s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002342s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0829s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0826s ]
+
+[ 2016-11-16T12:46:13+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002102s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0937s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0944s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.1029s ]
+SQL: INSERT INTO `u_dynamics` (`description`,`date`) VALUES ('564','2016-11-16') [ RunTime:0.0943s ]
+
+[ 2016-11-16T12:49:17+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002321s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002576s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0838s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0843s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0817s ]
+SQL: INSERT INTO `u_dynamics` (`description`,`date`) VALUES ('55458','2016-11-16') [ RunTime:0.0868s ]
+
+[ 2016-11-16T12:50:21+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001801s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002042s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0857s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0893s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0902s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','54135','2016-11-16') [ RunTime:0.0912s ]
+
+[ 2016-11-16T13:28:52+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001877s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1215s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1199s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0923s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','%23#~','2016-11-16') [ RunTime:0.0922s ]
+
+[ 2016-11-16T13:29:35+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002376s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002674s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1010s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1225s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.1231s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','1283','2016-11-16') [ RunTime:0.1230s ]
+
+[ 2016-11-16T13:30:03+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002635s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002999s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1265s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1131s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.1206s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','%2&amp;#','2016-11-16') [ RunTime:0.0833s ]
+
+[ 2016-11-16T13:33:08+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001540s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001739s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1353s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0916s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0967s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','q82e','2016-11-16') [ RunTime:0.1016s ]
+
+[ 2016-11-16T13:33:13+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002811s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.2025s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.2141s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.2030s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','q82e','2016-11-16') [ RunTime:0.1937s ]
+
+[ 2016-11-16T13:33:18+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0905s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0872s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.1141s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','q82e','2016-11-16') [ RunTime:0.1209s ]
+
+[ 2016-11-16T13:33:54+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001069s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001553s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1210s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0877s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.1085s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','13','2016-11-16') [ RunTime:0.1348s ]
+
+[ 2016-11-16T13:33:58+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001878s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0941s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0995s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.1241s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','13','2016-11-16') [ RunTime:0.1110s ]
+
+[ 2016-11-16T13:34:02+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001342s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001389s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001573s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0799s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0803s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0799s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','13','2016-11-16') [ RunTime:0.0787s ]
+
+[ 2016-11-16T13:34:09+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001193s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001872s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0967s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0965s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0992s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','13','2016-11-16') [ RunTime:0.0965s ]
+
+[ 2016-11-16T13:34:38+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000083s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002086s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002395s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0866s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0874s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0937s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','13','2016-11-16') [ RunTime:0.0925s ]
+
+[ 2016-11-16T13:36:23+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001750s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0891s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0865s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0871s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','oncnwibxiq','2016-11-16') [ RunTime:0.0923s ]
+
+[ 2016-11-16T13:36:27+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001344s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001594s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0969s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1197s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0993s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','oncnwibxiq','2016-11-16') [ RunTime:0.0996s ]
+
+[ 2016-11-16T13:36:31+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002054s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002335s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0962s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0967s ]
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0987s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','oncnwibxiq','2016-11-16') [ RunTime:0.0988s ]
+
+[ 2016-11-16T13:36:52+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/PublishUserDynamics/PublishUserDynamics.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002017s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0917s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0964s ]
+NOTIC: [8] Undefined index: images C:\WWW\nuotuan\Application\Home\Controller\PublishUserDynamicsController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `u_dynamics` [ RunTime:0.0971s ]
+SQL: INSERT INTO `u_dynamics` (`Uid`,`description`,`date`) VALUES ('9','','2016-11-16') [ RunTime:0.0945s ]
+
+[ 2016-11-16T13:38:08+08:00 ] 192.168.1.24 /nuotuan/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000081s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001622s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001928s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002208s ]
+

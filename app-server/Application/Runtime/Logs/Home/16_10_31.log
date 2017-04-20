@@ -1,0 +1,27 @@
+[ 2016-10-31T17:46:49+08:00 ] ::1 /nuotuan/index.php/Home/Reg/reg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002554s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001477s ]
+
+[ 2016-10-31T17:46:54+08:00 ] ::1 /nuotuan/index.php/Home/Reg/reg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000809s ]
+
+[ 2016-10-31T17:47:15+08:00 ] ::1 /nuotuan/index.php?lat=102.860436&lng=24.831008
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `group` WHERE ( lng<24.931008 AND lng>24.731008 AND lat<102.960436 AND lat>102.760436 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 21 行.
+

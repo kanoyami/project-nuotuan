@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html class="ui-page-login">
+
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title></title>
+		<link href="../css/mui.min.css" rel="stylesheet" />
+		<link href="../css/style.css" rel="stylesheet" />
+		<link href="../css/icono.min.css" rel="stylesheet" />
+		<style>
+			.area {
+				margin: 20px auto 0px auto;
+			}
+			
+			.mui-btn-primary,
+			input[type=submit] {
+				border: 1px solid #FF5053;
+				background-color: #FF5053
+			}
+			
+			.mui-btn-blue.mui-active:enabled,
+			.mui-btn-blue:enabled:active,
+			.mui-btn-primary.mui-active:enabled,
+			.mui-btn-primary:enabled:active,
+			input[type=submit].mui-active:enabled,
+			input[type=submit]:enabled:active {
+				border: 1px solid #FF0000;
+				background-color: #FF0000
+			}
+			
+			.image-head {
+				margin-left: 25%;
+				margin-top: 30%;
+				margin-bottom: 0
+			}
+			
+			.mui-bar {
+				background-color: #FF5053;
+			}
+			
+			.mui-title {
+				font-family: "微软雅黑";
+			}
+			
+			.mui-icon {
+				color: white;
+			}
+			
+			.icono-user {
+				top: -12px;
+				height: 18px;
+				width: 25px;
+				margin-left: -5px;
+			}
+			
+			.icono-user:before {
+				width: 9px;
+				height: 9px;
+				top: -15px;
+				border-radius: 50%
+			}
+			
+			.icono-keyboard {
+				top: -9px;
+				margin-left: -9px;
+			}
+			
+			.mui-input-group {
+				margin: 10px 50px auto 50px;
+				border: solid;
+				border-radius: 10px;
+				border-color: white;
+			}
+			
+			.mui-input-group:after {
+				-webkit-transform: scaleY(.0);
+				transform: scaleY(.0);
+			}
+			
+			.mui-input-group .mui-input-row:after {
+				-webkit-transform: scaleY(.0);
+				transform: scaleY(.0);
+			}
+			
+			.mui-input-group .mui-input-row:after {
+				left: 1%;
+			}
+			
+			.mui-input-group:before {
+				-webkit-transform: scaleY(.0);
+				transform: scaleY(.0);
+			}
+			
+			.mui-input-group:first-child {
+				margin-top: 20px;
+			}
+			
+			.mui-input-group label {
+				width: 22%;
+			}
+			
+			.mui-input-row label~input,
+			.mui-input-row label~select,
+			.mui-input-row label~textarea {
+				width: 78%;
+			}
+			
+			.mui-checkbox input[type=checkbox],
+			.mui-radio input[type=radio] {
+				top: 6px;
+			}
+			
+			.mui-content-padded {
+				margin-top: 25%;
+			}
+			
+			.mui-btn {
+				padding: 10px;
+				background-color: #FF5053;
+				font-family: "微软雅黑";
+				color: white;
+				margin-left: 13%;
+				text-align: center;
+				width: 73%;
+			}
+			
+			.link-area {
+				display: block;
+				text-align: center;
+			}
+			
+			.oauth-area {
+				position: absolute;
+				bottom: 20px;
+				left: 0px;
+				text-align: center;
+				width: 100%;
+				padding: 0px;
+				margin: 0px;
+			}
+			
+			.oauth-area .oauth-btn {
+				display: inline-block;
+				width: 50px;
+				height: 50px;
+				background-size: 30px 30px;
+				background-position: center center;
+				background-repeat: no-repeat;
+				margin: 0px 20px;
+				/*-webkit-filter: grayscale(100%); */
+				border: solid 1px #ddd;
+				border-radius: 25px;
+			}
+			
+			.oauth-area .oauth-btn:active {
+				border: solid 1px #aaa;
+			}
+			
+			.oauth-area .oauth-btn.disabled {
+				background-color: #ddd;
+			}
+			
+			.reg-left {
+				margin-top: -5px;
+				margin-left: -15spx;
+				font-size: 10pt;
+			}
+		</style>
+
+	</head>
+
+	<body>
+		<header class="mui-bar mui-bar-nav">
+			<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left"></a>
+			<h1 class="mui-title"><font color="white">登录</font></h1>
+		</header>
+		<img src="1.jpg" width="50%" height="50%" class="image-head">
+		<div class="mui-content">
+			<form id='login-form' class="mui-input-group">
+				<div class="mui-input-row">
+					<label><i class="icono-user"></i></label>
+					<input id='account' type="text" class="mui-input-clear mui-input" placeholder="账号">
+				</div>
+				<div class="mui-input-row">
+					<label><i class="icono-keyboard"></i></label>
+					<input id='password' type="password" class="mui-input-clear mui-input" placeholder="密码">
+				</div>
+			</form>
+			<div class="mui-content-padded">
+				<button id='login' class="mui-btn mui-btn-block mui-btn-primary">登录</button>
+				<div class="link-area reg-left">
+					<a id='reg'>注册账号</a> <span class="spliter">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+					<a id='forgetPassword'>忘记密码</a>
+				</div>
+			</div>
+			<div class="mui-content-padded oauth-area">
+
+			</div>
+		</div>
+		<script src="../js/mui.js"></script>
+		<script type="text/javascript">
+			mui.init();
+			mui.plusReady(function() {
+
+				debug = 0;
+				var API = "nuotuan/index.php/Home/Login/login.html";
+				if(debug) {
+					serverAddress = "http://192.168.1.24:8080/"+API;
+				} else {
+					serverAddress = "http://115.29.106.55/"+API;
+				}
+				
+				document.getElementById('login').addEventListener('tap',function(){
+					var datas ={
+					name : document.getElementById('account').value,
+					passwords : document.getElementById('password').value
+					}
+					
+					//mui.getJSON(serverAddress,{name:'admin',passwords:'123456'},function(data){
+						console.log(datas);
+						Request(serverAddress,datas,true);
+					});
+					
+
+				function Request(url, datas, loding) {
+					mui.ajax(url, {
+						data: datas,
+						dataType: 'json', //服务器返回json格式数据
+						type: 'post', //HTTP请求类型
+						timeout: 5000, //超时时间设置为5秒；
+						beforeSend: function() {
+							if(loding) {
+								plus.nativeUI.showWaiting("loading");
+							}
+						},
+						complete: function() {
+							if(loding) {
+								plus.nativeUI.closeWaiting();
+							}
+						},
+						success: function(data) {
+							//服务器返回响应，根据响应结果，分析是否登录成功； 
+							if(data['status']=='0'){
+								plus.nativeUI.toast("用户名或密码错误");
+							}
+							if(data['status']=='1'){
+								plus.nativeUI.toast("登陆成功");
+								var ws=plus.webview.currentWebview();
+								console.log(data['username']);
+								mui.fire(ws.opener(),'loginSuccess',{username:data['username']});
+								mui.back();
+							}
+						},
+						error: function(xhr, type, errorThrown) {
+							//异常处理；
+							plus.nativeUI.toast(type);
+							return 0;
+						}
+					});
+				}
+			});
+		</script>
+	</body>
+
+</html>

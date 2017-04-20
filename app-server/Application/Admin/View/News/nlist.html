@@ -1,0 +1,34 @@
+<extend name="Public:common" />
+
+<block name="content">
+<div class="am-cf am-padding">
+    <div class="am-fl am-cf"><strong class="am-text-primary am-text-lg">用户列表</strong> / <small>list</small></div>
+  </div>
+
+         
+          <table class="am-table am-table-striped am-table-hover table-main">
+            <thead>
+              <tr>
+                <th class="table-check"><input type="checkbox"></th><th class="table-id">ID</th><th class="table-title">用户名</th><th class="table-title">手机号</th>
+
+              </tr>
+          </thead>
+          <tbody>
+          <volist name="nlist" id="vo">
+            <form method="post" action="{: U('News/newsdelete')}">
+            <tr>
+              <td><input type="checkbox"> <input type="text" name="id" value="{: $vo['id']}" style="display:none;"> </td>
+              <td>{: $i}</td>
+              <td>{: $vo['username']}</td>
+              <td>{: $vo['phone']}</td>          
+            </tr>
+            </form>
+            </volist>
+          </tbody>
+        </table>
+
+  </div>
+</div>
+          <hr>
+       
+</block>

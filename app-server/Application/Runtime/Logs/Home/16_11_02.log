@@ -1,0 +1,2023 @@
+[ 2016-11-02T00:02:12+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000629s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000702s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1610s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1481s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1715s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1462s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1431s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1760s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1623s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1252s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 43 行.
+
+[ 2016-11-02T00:02:35+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000603s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000670s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1824s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1145s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1400s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.2251s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1811s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1634s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1887s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1365s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 44 行.
+
+[ 2016-11-02T00:03:12+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0743s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0750s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0759s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0754s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0763s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1799s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1140s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1064s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 44 行.
+
+[ 2016-11-02T00:03:43+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0790s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0749s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0803s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0755s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0783s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0756s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0768s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0938s ]
+NOTIC: [8] Undefined offset: 3 C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 43 行.
+
+[ 2016-11-02T00:04:07+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0841s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0795s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.8850s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1128s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1512s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1256s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1211s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1024s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 33 行.
+
+[ 2016-11-02T14:27:34+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000879s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001181s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001270s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0805s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0819s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0813s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0810s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0824s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1038s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1041s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0936s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 33 行.
+
+[ 2016-11-02T14:30:58+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001319s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0930s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0896s ]
+NOTIC: [8] Undefined index: did C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 9 行.
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0933s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0971s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 16 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0928s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1058s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0892s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1060s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 43 行.
+
+[ 2016-11-02T15:45:54+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000747s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000831s ]
+
+[ 2016-11-02T15:46:14+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=1233321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0941s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0967s ]
+NOTIC: [8] Undefined index: did C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 9 行.
+NOTIC: [8] Undefined index: uid C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0958s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 0 )  [ RunTime:0.0960s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 0 C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0962s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `group` WHERE ( gid =  ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `group` WHERE ( gid =  ) 
+
+[ 2016-11-02T16:01:06+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=1233321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0846s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0961s ]
+
+[ 2016-11-02T16:01:41+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=1233321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001145s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0907s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1005s ]
+
+[ 2016-11-02T16:01:44+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=1233321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001120s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0956s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0935s ]
+
+[ 2016-11-02T16:02:26+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=1233321
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0932s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0926s ]
+
+[ 2016-11-02T19:06:08+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000099s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003017s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002966s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003229s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0798s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0760s ]
+
+[ 2016-11-02T19:07:02+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000066s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003913s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003029s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0817s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0776s ]
+
+[ 2016-11-02T19:07:31+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001535s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003953s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005811s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0816s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0771s ]
+
+[ 2016-11-02T19:09:42+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002109s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004700s ]
+
+[ 2016-11-02T19:09:57+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001044s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001196s ]
+
+[ 2016-11-02T19:09:57+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002575s ]
+
+[ 2016-11-02T19:10:22+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001754s ]
+
+[ 2016-11-02T19:10:22+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007305s ]
+
+[ 2016-11-02T19:10:23+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001198s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001383s ]
+
+[ 2016-11-02T19:10:23+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001127s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002337s ]
+
+[ 2016-11-02T19:10:23+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001100s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001515s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001855s ]
+
+[ 2016-11-02T19:10:24+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002997s ]
+
+[ 2016-11-02T19:10:39+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005630s ]
+
+[ 2016-11-02T19:10:40+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001053s ]
+
+[ 2016-11-02T19:10:40+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000796s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004189s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004394s ]
+
+[ 2016-11-02T19:10:40+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001143s ]
+
+[ 2016-11-02T19:10:40+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006795s ]
+
+[ 2016-11-02T19:10:53+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001796s ]
+
+[ 2016-11-02T19:10:54+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001750s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001920s ]
+
+[ 2016-11-02T19:10:54+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001617s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001794s ]
+
+[ 2016-11-02T19:13:06+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000096s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002493s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001805s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002055s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0819s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0790s ]
+
+[ 2016-11-02T19:13:47+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002794s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002997s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0807s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0770s ]
+
+[ 2016-11-02T19:14:22+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001433s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0859s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0841s ]
+
+[ 2016-11-02T19:14:39+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000794s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001648s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0810s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0772s ]
+
+[ 2016-11-02T19:16:53+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000065s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001560s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 49 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0792s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0781s ]
+
+[ 2016-11-02T19:17:57+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001755s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0890s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0775s ]
+
+[ 2016-11-02T19:18:18+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000856s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001944s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002509s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0979s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0782s ]
+
+[ 2016-11-02T19:18:39+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002605s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002307s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0849s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0817s ]
+
+[ 2016-11-02T19:20:29+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007622s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0886s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0952s ]
+
+[ 2016-11-02T19:20:33+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001327s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0783s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0769s ]
+
+[ 2016-11-02T19:20:51+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001766s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0811s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0764s ]
+
+[ 2016-11-02T19:21:54+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003031s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0943s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0948s ]
+
+[ 2016-11-02T19:22:14+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000088s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000984s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006174s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007776s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0794s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0803s ]
+
+[ 2016-11-02T19:22:24+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001676s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0806s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0737s ]
+
+[ 2016-11-02T19:23:15+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002576s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0816s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0799s ]
+NOTIC: [8] Use of undefined constant length - assumed 'length' C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 56 行.
+
+[ 2016-11-02T19:23:20+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004941s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0787s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0797s ]
+NOTIC: [8] Use of undefined constant length - assumed 'length' C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 56 行.
+
+[ 2016-11-02T19:23:30+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000109s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002063s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0834s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0758s ]
+NOTIC: [8] Use of undefined constant length - assumed 'length' C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 56 行.
+
+[ 2016-11-02T19:24:09+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001596s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0776s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0810s ]
+
+[ 2016-11-02T19:24:52+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003200s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0777s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0751s ]
+
+[ 2016-11-02T19:25:43+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001544s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0812s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0755s ]
+
+[ 2016-11-02T19:26:11+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000949s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002985s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003211s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0807s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0927s ]
+
+[ 2016-11-02T19:26:13+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000704s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001205s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0983s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0920s ]
+
+[ 2016-11-02T19:26:48+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001146s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0856s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0813s ]
+NOTIC: [8] Undefined index: did C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 9 行.
+NOTIC: [8] Undefined index: uid C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 10 行.
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0848s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 0 )  [ RunTime:0.0815s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 17 行.
+NOTIC: [8] Undefined offset: 0 C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0814s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `group` WHERE ( gid =  ) 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+ [ SQL语句 ] : SELECT * FROM `group` WHERE ( gid =  ) 
+
+[ 2016-11-02T19:28:27+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000847s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005398s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0832s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0888s ]
+
+[ 2016-11-02T19:31:58+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000539s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001535s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0938s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0908s ]
+
+[ 2016-11-02T19:32:30+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000682s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0881s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0912s ]
+
+[ 2016-11-02T19:34:36+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000776s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001992s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002157s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 48 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.2639s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1893s ]
+
+[ 2016-11-02T19:36:23+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0892s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0878s ]
+
+[ 2016-11-02T19:36:26+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0954s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0936s ]
+
+[ 2016-11-02T19:36:54+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000798s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000680s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0898s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0880s ]
+
+[ 2016-11-02T19:37:38+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0929s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0965s ]
+
+[ 2016-11-02T19:43:46+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0843s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0842s ]
+
+[ 2016-11-02T19:47:13+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY%20qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001109s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0961s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0877s ]
+
+[ 2016-11-02T19:47:20+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY%20qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000123s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0927s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0822s ]
+
+[ 2016-11-02T19:47:59+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY%2BqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0958s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.3943s ]
+
+[ 2016-11-02T19:54:51+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000444s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0989s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0969s ]
+
+[ 2016-11-02T19:58:20+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001440s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0905s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1022s ]
+
+[ 2016-11-02T19:59:14+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY%2BqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000761s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001040s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1068s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1280s ]
+
+[ 2016-11-02T19:59:32+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY%2BqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000678s ]
+NOTIC: [8] Undefined index: token C:\WWW\nuotuan\Application\Home\Controller\Permission1Controller.class.php 第 50 行.
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0963s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0911s ]
+
+[ 2016-11-02T20:01:28+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=6vVfK6wA2bTOR2wJ1igiv4juhMY%2BqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0932s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0931s ]
+
+[ 2016-11-02T20:01:50+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001582s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001905s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0938s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0974s ]
+
+[ 2016-11-02T20:03:02+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000067s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000958s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000980s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001098s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1041s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0969s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0968s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0951s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1032s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0970s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0982s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1013s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 51 行.
+
+[ 2016-11-02T20:06:35+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001079s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001207s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0904s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0879s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0949s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0920s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0962s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1008s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0984s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0972s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 51 行.
+
+[ 2016-11-02T20:10:13+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001628s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0995s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0896s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1039s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1058s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1126s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1095s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1009s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.3993s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 51 行.
+
+[ 2016-11-02T20:10:19+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001123s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002026s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002247s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0974s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1125s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1172s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1012s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1149s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1254s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0939s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0918s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T20:10:55+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001286s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0982s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0919s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0922s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0966s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0961s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0977s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1006s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0960s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 51 行.
+
+[ 2016-11-02T20:11:12+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1028s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0972s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1017s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0966s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1109s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0998s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.4032s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T20:12:19+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000973s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001813s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0919s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0972s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0985s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0922s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1074s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0984s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1110s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1042s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 51 行.
+
+[ 2016-11-02T20:12:31+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002106s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1197s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0973s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1072s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0972s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1066s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1012s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1019s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1049s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T20:12:39+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001809s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0885s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0908s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0979s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0967s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0927s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0893s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1131s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0939s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T21:12:53+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001594s ]
+
+[ 2016-11-02T21:13:18+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001568s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001870s ]
+
+[ 2016-11-02T21:14:39+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002816s ]
+
+[ 2016-11-02T21:14:40+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001255s ]
+
+[ 2016-11-02T21:14:41+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001452s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001785s ]
+
+[ 2016-11-02T21:14:41+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001247s ]
+
+[ 2016-11-02T21:14:41+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000999s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001151s ]
+
+[ 2016-11-02T21:14:41+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000837s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003677s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003852s ]
+
+[ 2016-11-02T21:15:12+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001576s ]
+
+[ 2016-11-02T21:15:13+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001324s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001492s ]
+
+[ 2016-11-02T21:15:13+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002423s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003862s ]
+
+[ 2016-11-02T21:15:13+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+
+[ 2016-11-02T21:15:14+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000857s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001167s ]
+
+[ 2016-11-02T21:15:14+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+
+[ 2016-11-02T21:15:14+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001588s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001973s ]
+
+[ 2016-11-02T21:15:14+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001137s ]
+
+[ 2016-11-02T21:15:14+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000921s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001168s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001333s ]
+
+[ 2016-11-02T21:17:00+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003846s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004030s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0983s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0984s ]
+
+[ 2016-11-02T21:18:02+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY+qTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001670s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0982s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0953s ]
+
+[ 2016-11-02T21:18:13+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001196s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003089s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003488s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1027s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1030s ]
+NOTIC: [8] Undefined index: did C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1032s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1087s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1014s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.4453s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1017s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1028s ]
+NOTIC: [8] Undefined variable: data C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 47 行.
+
+[ 2016-11-02T21:18:31+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001704s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1035s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0993s ]
+NOTIC: [8] Undefined index: did C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1027s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1077s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1122s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1075s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1025s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0994s ]
+NOTIC: [8] Undefined variable: data C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 47 行.
+
+[ 2016-11-02T21:19:01+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002221s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002478s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1051s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1082s ]
+NOTIC: [8] Undefined index: did C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1005s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1028s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1040s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0984s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1003s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1057s ]
+NOTIC: [8] Undefined variable: data C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 49 行.
+
+[ 2016-11-02T21:19:44+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000799s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001756s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1003s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0956s ]
+NOTIC: [8] Undefined index: did C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 17 行.
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1122s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0940s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0983s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0992s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1027s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1028s ]
+NOTIC: [8] Undefined variable: div C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 57 行.
+
+[ 2016-11-02T21:20:25+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000759s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001277s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001470s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0994s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1005s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1040s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1066s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1020s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0990s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0997s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0927s ]
+NOTIC: [8] Undefined variable: div C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 63 行.
+
+[ 2016-11-02T21:20:40+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001296s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0991s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1004s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1045s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1000s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0985s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1045s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.4223s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1208s ]
+NOTIC: [8] Undefined variable: div C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 44 行.
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 63 行.
+
+[ 2016-11-02T21:20:57+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001155s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1034s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0955s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1003s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0984s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0979s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0990s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0902s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1010s ]
+NOTIC: [4096] Object of class Home\Controller\GetGroupDynamicController could not be converted to string C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 55 行.
+NOTIC: [8] Object of class Home\Controller\GetGroupDynamicController to string conversion C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 55 行.
+NOTIC: [8] Undefined variable: Object C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 55 行.
+
+[ 2016-11-02T21:21:16+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000094s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001034s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002694s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1029s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0946s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1133s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1014s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1015s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0887s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0932s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0910s ]
+
+[ 2016-11-02T21:21:43+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0926s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0900s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0912s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0893s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0970s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0965s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0973s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0909s ]
+
+[ 2016-11-02T21:22:09+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000725s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001291s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1016s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0979s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0950s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0977s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1031s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0975s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1033s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1041s ]
+
+[ 2016-11-02T21:22:51+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003122s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002742s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1013s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1069s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1016s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0942s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0930s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0973s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1027s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1001s ]
+
+[ 2016-11-02T21:24:20+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001742s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0971s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0976s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0986s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0961s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0962s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1002s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0984s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0990s ]
+
+[ 2016-11-02T21:25:29+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001620s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001838s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1042s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0969s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1005s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0973s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0986s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0930s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0948s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0937s ]
+
+[ 2016-11-02T21:26:07+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001602s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001763s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1017s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0951s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1050s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1036s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0964s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0943s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1024s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1015s ]
+
+[ 2016-11-02T21:26:32+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000259s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007326s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007501s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1039s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1106s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1195s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1074s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1102s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1040s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1017s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1150s ]
+
+[ 2016-11-02T21:26:58+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001055s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001224s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1027s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1005s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.4309s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0971s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0978s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0981s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1135s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1026s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T21:27:05+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003952s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1091s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1104s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1111s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1110s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1011s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0951s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0991s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1025s ]
+
+[ 2016-11-02T21:28:25+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001609s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001100s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001210s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1080s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1187s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1090s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1063s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1107s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1067s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1151s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1089s ]
+
+[ 2016-11-02T21:28:34+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000852s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002475s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1022s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1038s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1034s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1003s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1022s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1048s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1006s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0967s ]
+
+[ 2016-11-02T21:28:39+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001028s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001185s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1078s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0965s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0973s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0979s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.5122s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0999s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1000s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1093s ]
+
+[ 2016-11-02T21:29:35+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001595s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001767s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1475s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.5055s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1420s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.4598s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1503s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.4506s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.4982s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.4946s ]
+
+[ 2016-11-02T21:29:40+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001648s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0765s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0739s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0765s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0753s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0770s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0758s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0765s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0755s ]
+
+[ 2016-11-02T21:30:01+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001727s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002179s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0758s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0745s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0783s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0726s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0765s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0774s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0758s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0793s ]
+
+[ 2016-11-02T21:30:10+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000745s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000883s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1089s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.4305s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1100s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.4876s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1066s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0998s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1096s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1141s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 63 行.
+
+[ 2016-11-02T21:30:20+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001679s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1024s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1027s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1005s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0983s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1092s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1131s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1016s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1129s ]
+
+[ 2016-11-02T21:30:29+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000986s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1077s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1084s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1067s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1058s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0986s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1016s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1028s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0989s ]
+
+[ 2016-11-02T21:31:31+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001763s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001997s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0983s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1021s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1011s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0964s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0915s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0894s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1004s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0935s ]
+
+[ 2016-11-02T21:35:16+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004969s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001738s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0763s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0738s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0972s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0770s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0811s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0736s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0803s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0736s ]
+
+[ 2016-11-02T21:35:30+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002978s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1133s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1123s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1104s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1087s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1173s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1092s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1161s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1209s ]
+
+[ 2016-11-02T21:35:42+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.5663s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1008s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0994s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0960s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0967s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0976s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1010s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0979s ]
+
+[ 2016-11-02T21:36:28+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009743s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009922s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0919s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0943s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0922s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1051s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1031s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0929s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0939s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0949s ]
+
+[ 2016-11-02T21:36:37+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000107s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001600s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0961s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0995s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0981s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1004s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0947s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1070s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0963s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1143s ]
+
+[ 2016-11-02T21:36:44+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001126s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001103s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001270s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1009s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0999s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1013s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0896s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1040s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1001s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1010s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1053s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T21:36:51+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002175s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0959s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0924s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0990s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.3892s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1126s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1017s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1188s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1001s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 72 行.
+
+[ 2016-11-02T21:37:14+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007876s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0943s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0837s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1079s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1061s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0996s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1032s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1008s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0924s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 72 行.
+
+[ 2016-11-02T21:37:20+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001955s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0874s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0871s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0991s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0952s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0934s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0911s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0953s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0986s ]
+
+[ 2016-11-02T21:37:29+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002138s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002302s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1022s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1069s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1095s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1067s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1144s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1155s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1165s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1097s ]
+
+[ 2016-11-02T21:37:35+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000075s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003971s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004186s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1000s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0964s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1048s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0999s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0961s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1029s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1019s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0976s ]
+
+[ 2016-11-02T21:37:44+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001913s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1031s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1050s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1063s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0968s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1115s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0991s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1087s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0947s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T21:39:07+08:00 ] ::1 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html?token=%276vVfK6wA2bTOR2wJ1igiv4juhMY%2bqTWjXn6jyHHwTh5Om/uAwz3IA4SMDgAezSYy&uid=9&did=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002496s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007022s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007195s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1040s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0993s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1053s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1011s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0992s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1007s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1007s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0969s ]
+
+[ 2016-11-02T21:39:42+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005205s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005605s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1086s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0965s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0985s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0957s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0979s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1008s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0985s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0949s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 72 行.
+
+[ 2016-11-02T21:40:08+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000813s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003485s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0993s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1005s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0945s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0989s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1006s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0994s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0970s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0980s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T21:40:34+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001462s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005269s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0989s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0988s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1020s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0909s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1017s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.4809s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0983s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1002s ]
+
+[ 2016-11-02T21:50:01+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000908s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001014s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001102s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1072s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1041s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1022s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0963s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1023s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1118s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1021s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0908s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 72 行.
+
+[ 2016-11-02T21:50:09+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004589s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002295s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002877s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1001s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1001s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0990s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0936s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1032s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1003s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1045s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0903s ]
+
+[ 2016-11-02T21:55:07+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001221s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0988s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1047s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1035s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0976s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1026s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1041s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1003s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1007s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T21:55:14+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001218s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001414s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0996s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0992s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1053s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0999s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1054s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0993s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0980s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1014s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T22:19:04+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002848s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.1075s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.1015s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.1109s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.1068s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.1082s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.1024s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.1115s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.1131s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+
+[ 2016-11-02T22:21:20+08:00 ] 192.168.1.105 /nuotuan/index.php/Home/GetGroupDynamic/GetGroupDynamic.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001683s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001780s ]
+SQL: SHOW COLUMNS FROM `decodekey` [ RunTime:0.0767s ]
+SQL: SELECT * FROM `decodekey` WHERE ( id = 1 ) LIMIT 1   [ RunTime:0.0744s ]
+SQL: SHOW COLUMNS FROM `relations` [ RunTime:0.0770s ]
+SQL: SELECT * FROM `relations` WHERE ( uid = 9 )  [ RunTime:0.0722s ]
+NOTIC: [8] Undefined variable: sql C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 24 行.
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0782s ]
+SQL: SELECT * FROM `group` WHERE ( gid = 1 or gid = 2 or gid = 3 )  [ RunTime:0.0783s ]
+SQL: SHOW COLUMNS FROM `g_dynamics` [ RunTime:0.0755s ]
+SQL: SELECT * FROM `g_dynamics` WHERE ( gid = 1 or gid = 2 or gid = 3 ) ORDER BY did asc  [ RunTime:0.0731s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\GetGroupDynamicController.class.php 第 41 行.
+

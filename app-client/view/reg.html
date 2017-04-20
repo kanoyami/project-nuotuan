@@ -1,0 +1,343 @@
+<!doctype html>
+<html>
+
+	<head>
+		<meta charset="UTF-8" />
+		<title>regin</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<link href="../css/mui.min.css" rel="stylesheet" />
+		<link href="../css/icono.min.css" rel="stylesheet" />
+		<script src="../js/md5.js" type="text/javascript" charset="utf-8"></script>
+	</head>
+	<style>
+		.area {
+			margin: 20px auto 0px auto;
+		}
+		
+		.image-head {
+			margin: 20px;
+			width: 50%;
+		}
+		
+		.mui-bar {
+			background-color: #FF5053;
+		}
+		
+		.mui-title {
+			font-family: "微软雅黑";
+		}
+		
+		.mui-icon {
+			color: white;
+		}
+		
+		.mui-btn-primary,
+		input[type=submit] {
+			border: 1px solid #FF5053;
+			background-color: #FF5053
+		}
+		
+		.mui-btn-primary.mui-active:enabled,
+		.mui-btn-primary:enabled:active {
+			border: 1px solid #FF0000;
+			background-color: #FF0000
+		}
+		
+		.icono-user {
+			margin-top: 11px;
+		}
+		
+		.icono-iphone {
+			margin-top: -5px;
+		}
+		
+		.icono-keyboard {
+			margin-top: -2px;
+		}
+		
+		
+		.mui-bar-nav~.mui-content {
+			padding-top: 0px;
+		}
+		
+		.mui-input-row {
+			position: relative;
+			background-color: #fff;
+			margin: 1% 10% 6% 10%;
+			height: 40px;
+			width: 80%;
+		}
+		
+		.mui-input-row label~input {
+			float: left;
+			margin-left: -20px;
+		}
+		
+		.read {
+			margin: 7% auto auto 45px;
+			padding-left: 0px;
+		}
+		
+		.read label {
+			margin-left: 2%;
+			font-family: "微软雅黑";
+			letter-spacing: 1px;
+		}
+		
+		.read a {
+			color: #FF5053;
+		}
+		
+		.read a:hover {
+			text-decoration: underline;
+			color: #FF0000;
+		}
+		
+		.mui-btn {
+			padding: 10px;
+			background-color: #FF5053;
+			margin: 10px auto auto 6%;
+			color: white;
+			font-family: "微软雅黑";
+			width: 88%;
+		}
+	</style>
+
+	<body>
+		<header class="mui-bar mui-bar-nav">
+			<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left"></a>
+			<h1 class="mui-title"><font color="white">注册</font></h1>
+		</header>
+
+		<div style="padding-top: 50px ;" class="mui-content">
+
+			<form id='input'>
+				<div class="mui-row mui-text-center">
+					<img src="../images/title.jpg" class="image-head">
+				</div>
+
+				<div class="mui-input-row" id='phoneInput'>
+					<label><i class="icono-iphone"></i></label>
+					<input id='phone' onblur="isPhone();" type="number" placeholder="请输入手机号">
+				</div>
+				<div id="nameInput" class="mui-input-row">
+					<label><i class="icono-user"></i></label>
+					<input id='account' onblur="isName();" type="text" placeholder="请输入用户名">
+				</div>
+				<div id='passwordInput' class="mui-input-row">
+					<label><i class="icono-keyboard"></i></label>
+					<input id='password' onblur="isPasswd();" type="password" placeholder="请输入密码">
+				</div>
+				<div id='password_reInput' class="mui-input-row" id="checkpasswd">
+					<label><i class="icono-keyboard"></i></label>
+					<input id='password_re' onblur="isPasswd_re();" type="password" placeholder="请确认密码">
+				</div>
+
+				<div id='buttom'></div>
+				<div class="mui-input-row mui-checkbox ">
+					<label><font size="2px">我已阅读并同意<a style="color: red;">《糯团用户协议》</a></font></lable>
+				    <input id='read' name="Checkbox" type="checkbox" checked>
+				</div>
+				
+			</form>
+			<div class="mui-content-padded" >
+				<button id='reg' class="mui-btn mui-btn-block mui-btn-primary">注册</button>
+			</div>
+		</div>
+		<script src="../js/mui.min.js"></script>
+		<script type="text/javascript">
+			mui.init();
+			var parent = document.getElementById('input');
+			function isPhone(){
+					var phone = document.getElementById('phone').value.trim();
+					var reg = /^1[0-9]{10}/;
+					catchRegEx(phone,reg,'phone_warning','请输入正确的手机号','nameInput');	
+				}
+
+			function isPasswd(){
+				var passwd = document.getElementById('password').value.trim();
+					if(passwd.length<6){
+						if(document.getElementById('passwd_warning')!=null){
+							if(passwd==''){
+								parent.removeChild(document.getElementById('passwd_warning'));
+								return;
+								}
+							return;
+						}	
+						var p = document.createElement('p');
+						p.className='mui-text-center';
+						p.style.color='red';
+						p.id='passwd_warning';
+						p.innerHTML = '密码不能少于6位';
+						parent.insertBefore(p,document.getElementById('password_reInput'));	
+					}else{
+						if(document.getElementById('passwd_warning')!=null){
+							parent.removeChild(document.getElementById('passwd_warning'));
+						}else{
+							return;
+						}
+					}
+
+			}
+			function isPasswd_re(){
+				var passwd = document.getElementById('password').value;
+				var passwd_re =document.getElementById('password_re').value;
+				if(passwd!=passwd_re){
+						if(document.getElementById('passwdre_warning')!=null){
+							if(passwd_re==''){
+								parent.removeChild(document.getElementById('passwdre_warning'));
+								return;
+								}
+							return;
+						}	
+						var p = document.createElement('p');
+						p.className='mui-text-center';
+						p.style.color='red';
+						p.id='passwdre_warning';
+						p.innerHTML = '两次密码输入不一致';
+						parent.insertBefore(p,document.getElementById('emailInput'));	
+					}else{
+						if(document.getElementById('passwdre_warning')!=null){
+							parent.removeChild(document.getElementById('passwdre_warning'));
+						}else{
+							return;
+						}
+					}				
+			}
+			function isName(){
+				var name = document.getElementById('account').value.trim();
+				if(name==''){
+						if(document.getElementById('name_warning')!=null){
+							return;
+						}	
+						var p = document.createElement('p');
+						p.className='mui-text-center';
+						p.style.color='red';
+						p.id='name_warning';
+						p.innerHTML = '用户名不能为空';
+						parent.insertBefore(p,document.getElementById('passwordInput'));	
+					}else{
+						if(document.getElementById('name_warning')!=null){
+							parent.removeChild(document.getElementById('name_warning'));
+						}else{
+							return;
+						}
+					}
+				
+			}
+			
+			function catchRegEx(testStr, regEx, newObjID, warningText,beforeID){
+				//console.log(regEx);
+				if(!regEx.test(testStr)){
+						if(document.getElementById(newObjID)!=null){
+							if(testStr==''){
+								parent.removeChild(document.getElementById(newObjID));
+								return;
+								}
+							return;
+						}	
+						var p = document.createElement('p');
+						p.className='mui-text-center';
+						p.style.color='red';
+						p.id=newObjID;
+						p.innerHTML = warningText;
+						parent.insertBefore(p,document.getElementById(beforeID));	
+					}else{
+						if(document.getElementById(newObjID)!=null){
+							parent.removeChild(document.getElementById(newObjID));
+						}else{
+							return;
+						}
+					}
+			}
+
+			mui.plusReady(function() {
+
+				debug = 0;
+				var API = "nuotuan/index.php/Home/Reg/Reg.html";
+				if(debug) {
+					serverAddress = "http://192.168.1.105:8080/" + API;
+				} else {
+					serverAddress = "http://115.29.106.55/" + API;
+				}
+				
+
+				document.getElementById('reg').addEventListener('tap', function() {
+					var datas = {
+						name: document.getElementById('account').value,
+						passwords: hex_md5( document.getElementById('password').value),
+						phone:document.getElementById('phone').value
+					}
+						var regx = /^1[0-9]{10}/ ;
+						if(datas['phone']==''||!regx.test(datas['phone'])){		
+							console.log(datas['phone']||!/^1[0-9]{10}/.test(datas['phone']));
+							plus.nativeUI.toast('输入正确的手机号');
+							return false;
+						}
+						if(datas['name']==''){						
+							plus.nativeUI.toast('用户名不能为空哦');
+							return false;
+						}
+						if(datas['passwords']==''||document.getElementById('password').value.length<6){						
+							plus.nativeUI.toast('请输入正确的密码');
+							return false;
+						}
+						if(document.getElementById('password').value!=document.getElementById('password_re').value){
+							plus.nativeUI.toast('两次密码输入不一致');
+							return false;
+						}
+						
+						
+					
+					//console.log(document.getElementById('read').checked);
+					if(document.getElementById('read').checked){
+					//mui.getJSON(serverAddress,{name:'admin',passwords:'123456'},function(data){
+					Request(serverAddress, datas, true);
+					}else
+						plus.nativeUI.toast("请确认并同意用户协议");
+				});
+
+
+				function Request(url, datas, loding) {
+					mui.ajax(url, {
+						data: datas,
+						dataType: 'json', //服务器返回json格式数据
+						type: 'post', //HTTP请求类型
+						timeout: 5000, //超时时间设置为5秒；
+						beforeSend: function() {
+							if(loding) {
+								plus.nativeUI.showWaiting("loading");
+							}
+						},
+						complete: function() {
+							if(loding) {
+								plus.nativeUI.closeWaiting();
+							}
+						},
+						success: function(data) {
+							//服务器返回响应，根据响应结果，分析是否登录成功； 
+							if(data['status'] == '0') {
+								plus.nativeUI.toast("用户名或密码错误");
+							}
+							if(data['status'] == '1') {
+								plus.nativeUI.toast("注册成功");
+								var ws = plus.webview.currentWebview();
+								console.log(data['token']);
+								mui.back();
+							}else{
+								plus.nativeUI.toast(data['info']);
+							}
+						},
+						error: function(xhr, type, errorThrown) {
+							//异常处理；
+							plus.nativeUI.toast(type+errorThrown);
+							return 0;
+						}
+					});
+				}
+			});
+		</script>
+
+
+	</body>
+</html>

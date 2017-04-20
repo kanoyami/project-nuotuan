@@ -1,0 +1,178 @@
+[ 2016-10-25T09:21:55+08:00 ] ::1 /nuotuan/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000711s ]
+NOTIC: [8] Undefined index: name C:\WWW\nuotuan\Application\Home\Controller\LoginController.class.php 第 6 行.
+NOTIC: [8] Undefined index: passwords C:\WWW\nuotuan\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `user` WHERE ( password ='' AND username ='' ) LIMIT 1   [ RunTime:0.0006s ]
+
+[ 2016-10-25T09:24:42+08:00 ] ::1 /nuotuan/index.php/Home/Login/login.html?name=admin&password=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+NOTIC: [8] Undefined index: name C:\WWW\nuotuan\Application\Home\Controller\LoginController.class.php 第 6 行.
+NOTIC: [8] Undefined index: passwords C:\WWW\nuotuan\Application\Home\Controller\LoginController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `user` WHERE ( password ='' AND username ='' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-10-25T09:29:03+08:00 ] ::1 /nuotuan/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `user` WHERE ( password ='123456' AND username ='admin' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\WWW\nuotuan\Application\Home\Controller\LoginController.class.php 第 16 行.
+
+[ 2016-10-25T09:29:28+08:00 ] ::1 /nuotuan/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000759s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `user` WHERE ( password ='123456' AND username ='admin' ) LIMIT 1   [ RunTime:0.0003s ]
+NOTIC: [8] Undefined index: name C:\WWW\nuotuan\Application\Home\Controller\LoginController.class.php 第 16 行.
+
+[ 2016-10-25T09:29:54+08:00 ] ::1 /nuotuan/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000967s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `user` WHERE ( password ='123456' AND username ='admin' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-25T09:31:48+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001417s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001599s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `user` WHERE ( password ='123456' AND username ='admin' ) LIMIT 1   [ RunTime:0.0003s ]
+
+[ 2016-10-25T09:33:47+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `user` WHERE ( password ='123456' AND username ='admin' ) LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2016-10-25T09:50:08+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001382s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002304s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002484s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `user` WHERE ( password ='123456' AND username ='admin' ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-10-25T09:51:11+08:00 ] 192.168.1.1 /nuotuan/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000679s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000780s ]
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `user` WHERE ( password ='123456' AND username ='admin' ) LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2016-10-25T12:00:49+08:00 ] ::1 /nuotuan/index.php/Home/Reg/reg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000126s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003833s ]
+NOTIC: [8] Undefined index: name C:\WWW\nuotuan\Application\Home\Controller\RegController.class.php 第 6 行.
+NOTIC: [8] Undefined index: passwords C:\WWW\nuotuan\Application\Home\Controller\RegController.class.php 第 7 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0131s ]
+
+[ 2016-10-25T12:05:07+08:00 ] ::1 /nuotuan/index.php/Home/Reg/reg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000078s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001920s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004901s ]
+NOTIC: [8] Undefined index: name C:\WWW\nuotuan\Application\Home\Controller\RegController.class.php 第 6 行.
+
+[ 2016-10-25T12:05:34+08:00 ] ::1 /nuotuan/index.php/Home/Reg/reg.html%EF%BC%9Fusername=root&password=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001386s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002736s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003115s ]
+ERR: 非法操作:reg.html？username=root&password=123456
+
+[ 2016-10-25T12:05:41+08:00 ] ::1 /nuotuan/index.php/Home/Reg/reg.html?username=root&password=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002193s ]
+NOTIC: [8] Undefined index: name C:\WWW\nuotuan\Application\Home\Controller\RegController.class.php 第 6 行.
+
+[ 2016-10-25T12:05:56+08:00 ] ::1 /nuotuan/index.php/Home/Reg/reg.html?name=root&password=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001813s ]
+NOTIC: [8] Undefined index: passwords C:\WWW\nuotuan\Application\Home\Controller\RegController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0166s ]
+SQL: INSERT INTO `user` (`username`,`password`) VALUES ('','') [ RunTime:0.0020s ]
+
+[ 2016-10-25T12:06:54+08:00 ] ::1 /nuotuan/index.php/Home/Reg/reg.html?name=root&password=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001653s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001933s ]
+NOTIC: [8] Undefined index: passwords C:\WWW\nuotuan\Application\Home\Controller\RegController.class.php 第 8 行.
+SQL: SHOW COLUMNS FROM `user` [ RunTime:0.0162s ]
+SQL: INSERT INTO `user` (`username`,`password`) VALUES ('root','123456') [ RunTime:0.0007s ]
+
+[ 2016-10-25T17:10:30+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=102.860648&lat=24.830459
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001336s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `group` WHERE ( lng<102.960648 AND lng>102.760648 AND lat<24.930459 AND lat>24.730459 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-25T17:11:14+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=102.860647&lat=24.830461
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `group` WHERE ( lng<102.960647 AND lng>102.760647 AND lat<24.930461 AND lat>24.730461 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+

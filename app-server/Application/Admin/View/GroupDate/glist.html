@@ -1,0 +1,50 @@
+<extend name="Public:common" />
+
+<block name="content">
+<div class="am-cf am-padding">
+    <div class="am-fl am-cf"><strong class="am-text-primary am-text-lg">社团列表</strong> / <small>list</small></div>
+  </div>
+
+         
+          <table class="am-table am-table-striped am-table-hover table-main">
+            <thead>
+              <tr>
+                <th class="table-check"><input type="checkbox"></th><th class="table-id">ID</th>
+                <th class="table-title">社团名称</th>
+                <th class="table-type">经度</th>
+                <th class="table-type">纬度</th>
+                <th class="table-set">操作</th>
+              </tr>
+          </thead>
+          <tbody>
+          <volist name="glist" id="vo">
+
+            <form method="post" action="{: U('GroupDate/groupdelete')}">
+
+            <if condition="$vo['gid'] eq 1"><tr style="display:none"><else/><tr></if>
+              <td><input type="text" name="id" value="{: $vo['id']}" style="display:none;"> </td>
+              <td>{: $i}</td>
+              <td>{: $vo['name']}</td>
+              <td>{: $vo['lng']}</td>
+              <td>{: $vo['lat']}</td>
+              <td>{: $vo['description']}</td>
+
+            
+              <td>
+                <div class="am-btn-toolbar">
+                  <div class="am-btn-group am-btn-group-xs">
+                    <button type="submit" class="am-btn am-btn-default am-btn-xs am-text-danger am-hide-sm-only"><span class="am-icon-trash-o"></span> 删除</button>
+                  </div>
+                </div>
+              </td>
+            </tr>
+            </form>
+            </volist>
+          </tbody>
+        </table>
+
+  </div>
+</div>
+          <hr>
+       
+</block>

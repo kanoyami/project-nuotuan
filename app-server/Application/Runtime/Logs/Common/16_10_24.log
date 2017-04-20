@@ -1,0 +1,48 @@
+[ 2016-10-24T17:45:12+08:00 ] ::1 /nuotuan/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Login
+
+[ 2016-10-24T17:45:58+08:00 ] ::1 /nuotuan/index.php/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+ERR: 无法加载模块:Login
+
+[ 2016-10-24T17:46:04+08:00 ] ::1 /nuotuan/index.php/login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+ERR: 无法加载模块:Login
+
+[ 2016-10-24T18:38:45+08:00 ] 192.168.1.102 /nuotuan/index.php/Login/login?name=admin&passwords=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000816s ]
+ERR: 无法加载模块:Login
+
+[ 2016-10-24T18:38:53+08:00 ] 192.168.1.102 /nuotuan/index.php/Login/login?name=admin&passwords=123456
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001163s ]
+ERR: 无法加载模块:Login
+
+[ 2016-10-24T18:39:14+08:00 ] 192.168.1.105 /nuotuan/index.php/Login/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000319s ]
+ERR: 无法加载模块:Login
+
+[ 2016-10-24T18:39:23+08:00 ] 192.168.1.105 /nuotuan/index.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+ERR: 无法加载模块:Login
+
+[ 2016-10-24T18:39:25+08:00 ] 192.168.1.105 /nuotuan/index.php/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+ERR: 无法加载模块:Login
+

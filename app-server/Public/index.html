@@ -1,0 +1,145 @@
+﻿<extend name="Public:common" />
+<block name="content">
+    <div class="MatchLive" id="SL_live">
+    <div class="match_live_con">
+        <div class="match_tit">
+            <span class="tit_img"><img src="__PUBLIC__/home/resources/icon_name.png"></span>
+            <span class="tit_name_ch">比赛直播</span>
+            <span class="tit_name_eg">MATCH LIVE</span>
+        </div>
+        
+                        
+        <div class="l_button">
+            <a href="javascript:;" id="douyu" onclick="u1(&#39;&#39;)" class="v_douyu_cur"></a>
+        </div>
+        <!-- 直播 -->
+        <div class="void_douyu">
+
+        
+            <object type="application/x-shockwave-flash" data="http://s3.pdim.gs/static/aaa7123def4704c4.swf" width="820" height="510" id="swf_play" style="visibility: visible;"><param  name="allowFullScreen" value="true"><param name="wMode" value="opaque"><param name="allowScriptAccess" value="always"><param name="flashvars"  value="resource=http://s3.pdim.gs/static/aaa7123def4704c4.swf&amp;sign=true&amp;videoId=8b340fc092527919d41543fe09cf94db&amp;roomUrl=http://www.panda.tv/373220&amp;plflag=2_3&am p;flashId=swf_play"></object>
+
+        </div>
+  
+            
+        <div class="live_banner">
+        <volist name="bannervideo" id="vo" offset="0" length='3'>
+            <a href="{: $vo['herf']}" target="_blank" title={: $vo['title']}><img src={: $vo['src']}></a>
+        </volist>
+        </div>
+
+    </div> <!-- end match_live_con -->
+</div><!-- end MatchLive -->
+
+    <div class="Information" id="SL_Information">
+    <div class="Information_con">
+        <div class="Information_tit">
+            <span class="tit_img"><img src="__PUBLIC__/home/resources/icon_name.png"></span>
+            <span class="tit_name_ch">赛事资讯</span>
+            <span class="tit_name_eg">EVENT NEWS</span>
+            <a href="index.php/Home/NewsPage" target="_blank">查看更多&lt;&lt;</a>
+        </div>
+        <div class="tit_line"></div>
+            <div class="Information_on">
+                <div class="bg" id="bg"></div>
+                <div class="news_ul">
+                 <volist name="news" id="vo" offset="0" length="4">
+                 <div class="news_ul new_list" >
+                    <a  onclick="showdiv({: $i});">{: $vo['title']}</a>
+                    <div class="show" id="show{: $i}">
+                    <p style="font-size:25px;">{: $vo['title']}</p>
+                    <p style="font-size: 16px;">{: $vo['date']}</p>
+                    <div style="text-align: left;">{: $vo['content']}</div>
+                    <br>
+                    <input class="closebtn" value="关闭" id="btnclose" onclick="hidediv({: $i});"/>
+                    </div>
+                    <p style="color:white;float:right;">{: $vo['date']}</p>
+
+                 </div>
+                 </volist>
+                </div><!-- end news_ul -->
+            </div><!-- emd Information_on 1 -->
+    </div><!-- end Information_con -->
+</div><!-- end Information -->
+     <div class="Process" id="SL_Process" style="display:none;">
+    <div class="Process_con">
+        <div class="Process_tit">
+            <span class="tit_img"><img src="__PUBLIC__/home/resources/icon_name.png"></span>
+            <span class="tit_name_ch">赛事进程</span>
+            <span class="tit_name_eg">Process</span>
+        </div>
+        <div class="tit_line"></div>
+
+         <!-- end tabContList -->
+    </div><!-- end Process_con -->
+</div><!-- end Process -->
+
+
+
+    <div class="Video" id="SL_Video">
+    <div class="Video_con">
+        <div class="Video_tit">
+            <span class="tit_img"><img src="__PUBLIC__/home/resources/icon_name.png"></span>
+            <span class="tit_name_ch">比赛视频</span>
+            <span class="tit_name_eg">VIEDO</span>
+            <a href="http://i.youku.com/deepseatournament" target="_blank">查看更多&lt;&lt;</a>
+        </div>
+        <div class="tit_line"></div>
+        <div class="video_list">
+            <volist name="matchvideo" id="vo">
+            <div class="video_news_con">
+                    	<span class="video_img"><img src={:$vo['src']}>
+                        <span class="video_int">{: $vo["title"]}{: $vo["id"]}</span></span>
+            </div>
+            </volist>
+                
+ </div>
+    </div><!-- end video_con -->
+</div>
+
+<!-- end Video -->
+    <div class="FLOWSHEET" id="SL_FLOWSHEET">
+    <div class="flowsheet_con">
+        <div class="flowsheet_tit">
+            <span class="tit_img"><img src="__PUBLIC__/home/resources/icon_name.png"></span>
+            <span class="tit_name_ch">赛事流程</span>
+            <span class="tit_name_eg">EVENT INTRO</span>
+        </div>
+        <div class="tit_line"></div>
+        <div class="flow_box">
+         
+            
+            <img style="margin-bottom: 40px;" src="{: $flist[0]['src']}"  width="1100px">
+         
+        </div>
+    </div>
+</div><!-- end FLOWSHEET -->
+
+<volist name = "about" id="vo" offset="0" length="1">
+	<div class="Relevant" id="SL_Relevant">
+    <div class="Relevant_con">
+        <div class="SL_img"><img src={: $vo['src']}></div>
+        <div class="SL_jieshao">
+            <div class="SL_tit" ><h5>关于</h5><span>{: $vo['title']}</span></div>
+            <p style="text-align: left;">{: $vo['content']}</p>
+
+            <div class="Relevant_winer">
+                <span class="rv_icon"><img src="__PUBLIC__/home/resources/rv_winner_icon.jpg"></span>
+                <span class="Money">冠军奖金:{: $vo['salary1']}</span>
+                <span class="Money">亚军奖金:{: $vo['salary2']}</span>
+                <span class="Money">季军奖金:{: $vo['salary3']}</span>
+            <br><br><br><br>
+            <p style="text-align: left;">  队伍报名 application@deepseatournament.com‍
+            <br>咨询建议 info@deepseatournament.com‍
+            <br>商业合作 commercial@deepseatournament.com‍</p>
+            <br>
+            </div>
+        </div>
+        <div class="SL_link">
+            <a href="javascript:;" title="" class="link1"><img src="{: $logo1['src']}"></a>
+            <a href="javascript:;" title="" class="link2"><img src="{: $logo2['src']}"></a>
+            <a href="javascript:;" title="" class="link3"><img src="{: $logo3['src']}"></a>
+        </div>
+    </div>
+    </div><!-- end Relevant -->
+</volist>
+</block>

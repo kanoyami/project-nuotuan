@@ -1,0 +1,45 @@
+是不是今天很高兴呀<!doctype html>
+<html lang="en" class="feedback">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+		<title>写动态</title>
+		<link rel="stylesheet" href="../css/mui.min.css" />
+		<link rel="stylesheet" href="../css/feedback.css" />
+	</head>
+<style>
+.mui-title{
+	font-family: "微软雅黑";
+	color: white;
+}
+</style>
+	<body>
+		<header class="mui-bar mui-bar-nav" style="background-color: #FF5053;">
+			<a class="mui-action-back mui-icon mui-icon-left-nav mui-pull-left" style="color: white;"></a>
+			<button id="submit" class="mui-btn mui-btn-link mui-pull-right" style="font-family: '微软雅黑';color: white;">发送</button>
+			<h1 class="mui-title">写动态</h1>
+		</header>
+		<div class="mui-content">
+			<div class="mui-content-padded">
+				<div id="popover" class="mui-popover">
+					<div class="mui-popover-arrow"></div>
+
+				</div>
+			</div>
+			<div class="row mui-input-row">
+				<textarea id='talk' class="mui-input-clear question" placeholder="说点什么吧......"></textarea>
+			</div>
+			<p>图片(可选)</p>
+			<div id='image-list' class="row image-list"></div>
+			</div><br />
+		</div>
+		<script src="../js/mui.js"></script>
+		<script src="../js/feedback.js" type="text/javascript" charset="utf-8"></script>
+		<script type="text/javascript">
+			mui.init();
+			mui('.mui-scroll-wrapper').scroll();
+			
+			</script>
+	</body>
+
+</html>

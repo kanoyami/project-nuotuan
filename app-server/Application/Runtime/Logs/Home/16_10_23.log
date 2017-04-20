@@ -1,0 +1,1243 @@
+[ 2016-10-23T14:49:29+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001221s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001458s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:06+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0047s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:32+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000983s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001107s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:51+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000792s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000889s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:52+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000321s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000439s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:53+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000956s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:53+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000828s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000926s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:53+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000796s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:53+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000522s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:53+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:54+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000581s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:54+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:54+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:52:57+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000409s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000788s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000888s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:53:04+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000332s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000530s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0118s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:53:09+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:53:25+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000494s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:53:32+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000546s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:53:36+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000542s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:54:02+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000555s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:54:07+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000710s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:54:26+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000492s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:54:46+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:30+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:30+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:30+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000538s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:30+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000548s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:31+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001040s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001902s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002096s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:31+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:32+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:32+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001220s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:32+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:35+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:38+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000498s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:50+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000603s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T14:56:52+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001003s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:21:21+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000635s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:22:36+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000849s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000938s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:23:38+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001096s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001701s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:24:00+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001199s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001327s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:25:20+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001194s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001349s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0122s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0011s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:26:19+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000395s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:27:51+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001256s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:27:58+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000586s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:29:01+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000561s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000646s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:29:16+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000925s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001039s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:41:37+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001946s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002145s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:42:16+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000438s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000491s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:42:19+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000524s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000592s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0048s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:42:47+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000957s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:43:05+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:43:57+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:44:10+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:44:36+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000542s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0099s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:45:15+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000950s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:46:05+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000613s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:46:37+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001048s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:47:21+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001035s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000953s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:50:37+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000582s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:51:24+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000885s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000992s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:51:50+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:53:03+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000834s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:53:11+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:54:22+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000576s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000892s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:55:03+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001104s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001765s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:56:44+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:59:42+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000593s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000651s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:59:45+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000364s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:59:46+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000470s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0036s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T15:59:47+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000787s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000927s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0109s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:00:22+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000890s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0124s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:01:21+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:01:26+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0101s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:01:50+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000571s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0039s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:04:59+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:05:29+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000892s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000830s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000932s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:06:32+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000305s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000490s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:07:12+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000917s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:08:12+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000588s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:08:26+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000860s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:15:26+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:16:47+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:17:10+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000905s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001025s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:18:03+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002203s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:18:45+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:19:27+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000584s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000976s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:23:29+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000634s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:23:53+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000876s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:24:10+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000885s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:24:28+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000374s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:24:35+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000530s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000598s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0100s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:24:43+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0037s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:24:52+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000573s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0108s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:24:55+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001314s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001487s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:25:05+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000556s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:25:09+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000560s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0103s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:35:15+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000658s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0046s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:40:05+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000515s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000769s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:40:43+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000604s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:41:16+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001113s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:41:56+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000818s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000936s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:44:51+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0106s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0004s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T16:45:13+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000614s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T23:46:33+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002628s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0197s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0039s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T23:50:04+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000069s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001834s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T23:52:00+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000861s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003288s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0111s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T23:52:17+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003015s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003189s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0113s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T23:52:22+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000610s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000901s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001015s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0142s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0007s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T23:54:35+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001778s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001948s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0133s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T23:56:04+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002353s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002640s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0005s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T23:56:43+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001095s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001204s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T23:56:51+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001924s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0003s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
+[ 2016-10-23T23:57:05+08:00 ] 192.168.1.102 /nuotuan/index.php?lng=101.59295164&lat=24.8642128
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000086s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001784s ]
+SQL: SHOW COLUMNS FROM `group` [ RunTime:0.0159s ]
+SQL: SELECT * FROM `group` WHERE ( lng<101.69295164 AND lng>101.49295164 AND lat<24.9642128 AND lat>24.7642128 )  [ RunTime:0.0008s ]
+NOTIC: [8] Undefined variable: url C:\WWW\nuotuan\Application\Home\Controller\IndexController.class.php 第 16 行.
+
